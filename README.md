@@ -2,7 +2,7 @@
 As Fat Lady is guarding the entrance to Gryffindor common room, 
 this project is to help reduce her workload by recongizing if the person in the image belongs to Gryffindor. 
 
-![Fat Lady Image](https://github.com/wenyenwei/openCV_face_detection_harry_potter/blob/master/temp/FatLady.png)
+![Fat Lady Image](https://github.com/wenyenwei/openCV_face_detection_harry_potter/blob/master/temp/fatlady.png)
 
 ## Data Categories
 * Harry Potter
