@@ -2,6 +2,7 @@
 As Fat Lady is guarding the entrance to Gryffindor common room, 
 this project is to help reduce her workload by recongizing if the person in the image belongs to Gryffindor. 
 
+Tutorial reference: https://www.udemy.com/i-want-learn-cnn-ai-technology/
 ![Fat Lady Image](https://i.ytimg.com/vi/3-bXjK_5C8g/maxresdefault.jpg)
 
 ## Data Categories
